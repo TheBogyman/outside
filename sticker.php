@@ -2,7 +2,7 @@
 
 
 $idarray= array(
-array("0","82096619-fa22-4027-8fe7-f6c3a925c98f","206270177","ca-app-pub-8872907273957591~1503438261","ca-app-pub-8872907273957591/5031619733","0","0","0","http://lmaz3ot.github.io/outside/sticker.php","0","0","0")
+array("1","82096619-fa22-4027-8fe7-f6c3a925c98f","206270177","ca-app-pub-8872907273957591~1503438261","ca-app-pub-8872907273957591/5031619733","0","0","0","http://lmaz3ot.github.io/outside/sticker.php","0","0","0")
 
 
 );
